@@ -1,0 +1,22 @@
+Dashboard via Tableau Public
+https://public.tableau.com/app/profile/ivan.chow2712/viz/223years_withdashboard/Dashboard12
+
+Created a Video. Youtube link:
+https://studio.youtube.com/video/m3NYTEj-Pds/edit
+
+
+Description of process:
+Greatly inspired by Hans Rosling. 
+1) Downloaded raw data from Gapfinder in a few excel sheets.
+2) Created a Python script to combine them into 1 excel sheet containing 40,000+ rows of data. 
+3) Run and visualize them on Tableau.
+4) Write a script for the video.
+5) Took the video at a studio by myself. Learnt how to setup camera, mic, teleprompter, and lighting.
+6) Combine various clips into capcut, and then add the graph effects via Adobe After Effects (Free Trial).
+
+Things I learnt:
+1) Knowing how to combine various sheets of large data into 1 sheet.
+2) Creating a python script on laptop, and knowing how to run it via terminal.
+3) Know more functions about Tableau.
+4) Background of the video is a very important matter. Should have almost same color backdrop to have an easier time in editing the words/graphs
+5) Adobe After Effects, and also Video Editing.
